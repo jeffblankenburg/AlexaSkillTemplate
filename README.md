@@ -6,5 +6,5 @@
 
 
 ```sh
-ask new --template-url https://github.com/FabioWilliam/AlexaSkillTemplate.git --template-branch master
+ask new --template-url https://github.com/FabioWilliam/JeffAlexaSkillTemplate.git --template-branch master
 ```
