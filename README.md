@@ -2,7 +2,7 @@
 
 ## Desenvolviva por @jeffblankenburg
 
-## para clonar diretamente esta skiil e acelerar o desenvolvimento digite
+## para clonar diretamente esta skill e acelerar o desenvolvimento digite
 
 
 ```sh
